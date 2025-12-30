@@ -1,0 +1,4 @@
+Sales Dashboard BI
+
+
+https://app.powerbi.com/view?r=eyJrIjoiNDFiNTA4M2EtNzU5NC00NTcwLWIzNzItNmJjYTY3YjQ3ZGUzIiwidCI6ImJmNzE1NTYwLTU1MzEtNGNiNC1hYjdlLWQwMzlkYzEyYjU5MyIsImMiOjl9
